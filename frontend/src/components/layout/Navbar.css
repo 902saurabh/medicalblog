@@ -1,0 +1,32 @@
+.nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  height: 5rem;
+  align-items: center;
+}
+
+.btn {
+  margin: 0;
+  height: auto;
+  background-color: white;
+  width: 100px;
+}
+
+.right-section {
+  margin-right: 5rem;
+}
+
+.nav-links {
+  /* margin-right: 3rem; */
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-links a {
+  margin-right: 1rem;
+  color: black;
+  text-decoration: none;
+}
